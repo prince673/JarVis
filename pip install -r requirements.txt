@@ -1,0 +1,29 @@
+
+2. Replace `'[ID]'` in the code with your own API key for OpenWeatherMap and NewsAPI.
+
+3. Run the `main.py` file to start the virtual assistant.
+
+## Usage
+Evi can be controlled using voice commands. Here are some examples:
+- "Open calculator"
+- "Play music"
+- "What's the weather like today?"
+- "Tell me the latest news"
+- "Search for 'Python' on Wikipedia"
+- "Open YouTube"
+- "Open HackTheBox"
+- "Open TryHackMe"
+- "Set a timer for 10 minutes"
+- "Switch to the next tab"
+- "Stop the music"
+- "Play the music"
+- "What's the current time?"
+- "How are you?"
+- "Good Evi"
+- "Exit"
+
+## Contribution
+Feel free to contribute to this project by creating pull requests or reporting issues.
+
+## License
+This project is licensed under the MIT License.
